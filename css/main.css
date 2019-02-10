@@ -393,7 +393,7 @@ section.ready-img-title button {
 }
 
 .feedback {
-  background-image: url(/img/feedback.jpg);
+  background-image: url(../img/feedback.jpg);
 }
 
 .feedback-text {
@@ -401,7 +401,7 @@ section.ready-img-title button {
 }
 
 .subscrine {
-  background-image: url(/img/subscrine.jpg);
+  background-image: url(../img/subscrine.jpg);
 }
 
 input[name='subscrine'] {
@@ -987,4 +987,3 @@ img.mfp-img {
     padding-right: 6px;
   }
 }
-/*# sourceMappingURL=main.css.map */
