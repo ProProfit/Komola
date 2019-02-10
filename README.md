@@ -24,6 +24,7 @@ Demo тут: [Посмотреть](https://proprofit.github.io/Komola/)
 * Мобильность
 * SEO
 * Документация
+* JS Отзывы
 
 
 
