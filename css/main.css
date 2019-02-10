@@ -393,7 +393,7 @@ section.ready-img-title button {
 }
 
 .feedback {
-  background-image: url(/img/feedback.jpg);
+  background-image: url(../img/feedback.jpg);
 }
 
 .feedback-text {
@@ -401,7 +401,7 @@ section.ready-img-title button {
 }
 
 .subscrine {
-  background-image: url(/img/subscrine.jpg);
+  background-image: url(../img/subscrine.jpg);
 }
 
 input[name='subscrine'] {
@@ -547,6 +547,7 @@ div[class*='footer-col-'], p, h4, ul, img {
   background: #283645;
   color: #fff;
 }
+<<<<<<< HEAD
 
 .mfp-bg {
   top: 0;
@@ -988,3 +989,6 @@ img.mfp-img {
   }
 }
 /*# sourceMappingURL=main.css.map */
+=======
+/*# sourceMappingURL=main.css.map */
+>>>>>>> a81fc29ec4f001c7b5b42e6186f62fa2c9184361
